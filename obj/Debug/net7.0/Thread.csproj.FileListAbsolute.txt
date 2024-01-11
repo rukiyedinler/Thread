@@ -1,0 +1,15 @@
+C:\Users\RUKIYE\OneDrive\Masaüstü\Thread\Thread\bin\Debug\net7.0\Thread.exe
+C:\Users\RUKIYE\OneDrive\Masaüstü\Thread\Thread\bin\Debug\net7.0\Thread.deps.json
+C:\Users\RUKIYE\OneDrive\Masaüstü\Thread\Thread\bin\Debug\net7.0\Thread.runtimeconfig.json
+C:\Users\RUKIYE\OneDrive\Masaüstü\Thread\Thread\bin\Debug\net7.0\Thread.dll
+C:\Users\RUKIYE\OneDrive\Masaüstü\Thread\Thread\bin\Debug\net7.0\Thread.pdb
+C:\Users\RUKIYE\OneDrive\Masaüstü\Thread\Thread\obj\Debug\net7.0\Thread.csproj.AssemblyReference.cache
+C:\Users\RUKIYE\OneDrive\Masaüstü\Thread\Thread\obj\Debug\net7.0\Thread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RUKIYE\OneDrive\Masaüstü\Thread\Thread\obj\Debug\net7.0\Thread.AssemblyInfoInputs.cache
+C:\Users\RUKIYE\OneDrive\Masaüstü\Thread\Thread\obj\Debug\net7.0\Thread.AssemblyInfo.cs
+C:\Users\RUKIYE\OneDrive\Masaüstü\Thread\Thread\obj\Debug\net7.0\Thread.csproj.CoreCompileInputs.cache
+C:\Users\RUKIYE\OneDrive\Masaüstü\Thread\Thread\obj\Debug\net7.0\Thread.dll
+C:\Users\RUKIYE\OneDrive\Masaüstü\Thread\Thread\obj\Debug\net7.0\refint\Thread.dll
+C:\Users\RUKIYE\OneDrive\Masaüstü\Thread\Thread\obj\Debug\net7.0\Thread.pdb
+C:\Users\RUKIYE\OneDrive\Masaüstü\Thread\Thread\obj\Debug\net7.0\Thread.genruntimeconfig.cache
+C:\Users\RUKIYE\OneDrive\Masaüstü\Thread\Thread\obj\Debug\net7.0\ref\Thread.dll
